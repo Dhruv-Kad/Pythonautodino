@@ -1,0 +1,3 @@
+Main goals:
+1. Read pixel ahead of dino 
+2. Press space 
